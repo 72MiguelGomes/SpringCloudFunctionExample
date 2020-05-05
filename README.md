@@ -16,3 +16,11 @@ curl --location --request POST 'localhost:8080/healthCheckConsumer' \
 	"name": "Miguel Gomes"
 }'
 ```
+
+## Deploy to AWS
+
+1. Upload to AWSLambda
+
+1. Configure the handler name: ``com.example.spring.integration.AWSLambdaHandler``
+
+1. Add an environment variable with the name of the function:  ``sayHello``
