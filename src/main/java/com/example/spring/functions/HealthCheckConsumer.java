@@ -1,4 +1,4 @@
-package com.example.spring.SpringCloudFunction.functions;
+package com.example.spring.functions;
 
 import java.util.function.Consumer;
 import org.slf4j.Logger;

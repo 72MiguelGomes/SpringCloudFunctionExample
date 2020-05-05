@@ -1,4 +1,4 @@
-package com.example.spring.SpringCloudFunction;
+package com.example.spring;
 
 import java.time.LocalTime;
 import java.util.function.Consumer;

@@ -1,4 +1,4 @@
-package com.example.spring.SpringCloudFunction.functions;
+package com.example.spring.functions;
 
 import lombok.NoArgsConstructor;
 import lombok.Setter;
